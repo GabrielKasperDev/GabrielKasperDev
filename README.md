@@ -7,7 +7,7 @@
 
 <div align="center">
 <h2> 💻|  About Me: |💻 </h2><hr/>
-<a target="_blank" href="https://gabrielkasperdev.github.io/Portifolio/"><img src="portfolio.png" width="69px"></a>
+<a target="_blank" href="https://gabrielkasperdev.github.io/portfolio/"><img src="portfolio.png" width="69px"></a>
 <h3> • I have already developed several projects with: <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="47" alt="html5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="47" alt="css3" />
